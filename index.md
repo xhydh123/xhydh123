@@ -8,30 +8,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 小黄鸭导航山寨版眾多！很多無良小人直接鏡像（或抄襲）本站，假“小黄鸭导航”之名義騙取流量，大家務必仔細辨別（無良小人為了賺錢不惜放置釣魚、詐欺廣告）。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 如何更方便的访问“小黄鸭导航”？
 
-- Bulleted
-- List
+1.使用“CTRL+D”将本页面添加至您的浏览器收藏夹内，方便下次访问
+2.记住永久域名：www.xhydh123.com 
+3.发送任意邮件到“baidu8869@gmail.com”,自动回复最新地址
+5.把本站域名手写到您的记事本上
 
-1. Numbered
-2. List
+### “小黄鸭导航”是如何确保网站安全性的？
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xhydh123/xhydh123/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1.本站所收录的全部网址均经过人工审核
+2.本站接受用户对违规站点的投诉，并及时下架违规站点
