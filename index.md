@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 常见问题
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+小黄鸭导航山寨版眾多！很多無良小人直接鏡像（或抄襲）本站，假“小黄鸭导航”之名義騙取流量，大家務必仔細辨別（無良小人為了賺錢不惜放置釣魚、詐欺廣告）。
 
 ```markdown
 Syntax highlighted code block
