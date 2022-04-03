@@ -2,7 +2,6 @@
 
 小黄鸭导航网站做你的福利导航，找不到最新地址，请发邮件baidu8869@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 常见问题
 
@@ -11,12 +10,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 如何更方便的访问“小黄鸭导航”？
 
-1.使用“CTRL+D”将本页面添加至您的浏览器收藏夹内，方便下次访问
-2.记住永久域名：www.xhydh123.com 
-3.发送任意邮件到“baidu8869@gmail.com”,自动回复最新地址
-5.把本站域名手写到您的记事本上
+1.使用“CTRL+D”将本页面添加至您的浏览器收藏夹内，方便下次访问</br>
+2.记住永久域名：www.xhydh123.com </br>
+3.发送任意邮件到“baidu8869@gmail.com”,自动回复最新地址</br>
+5.把本站域名手写到您的记事本上</br>
 
 ### “小黄鸭导航”是如何确保网站安全性的？
 
-1.本站所收录的全部网址均经过人工审核
+1.本站所收录的全部网址均经过人工审核</br>
 2.本站接受用户对违规站点的投诉，并及时下架违规站点
