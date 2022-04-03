@@ -1,4 +1,4 @@
-## 小黄鸭导航欢迎您
+## 小黄鸭导航福利
 
 You can use the [editor on GitHub](https://github.com/xhydh123/xhydh123/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
