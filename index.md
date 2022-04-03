@@ -1,6 +1,6 @@
 ## 小黄鸭导航福利
 
-小黄鸭导航网站做你的福利导航，找不到最新地址，请发邮件：找不到最新地址，请发邮件baidu8869@gmail.com
+小黄鸭导航网站做你的福利导航，找不到最新地址，请发邮件baidu8869@gmail.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
